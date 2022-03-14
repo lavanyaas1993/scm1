@@ -1,0 +1,14 @@
+total 48
+-rwxrw-r-- 1 ec2-user ec2-user 136 Mar  7 14:38 fatorial.sh
+-rw-rw-r-- 1 ec2-user ec2-user 598 Mar  7 14:42 summury
+-rwxrw-r-- 1 ec2-user ec2-user 121 Mar  7 14:48 file-path.sh
+-rwxrw-r-- 1 ec2-user ec2-user 154 Mar  9 12:44 file-reverse.sh
+-rwxrw-r-- 1 ec2-user ec2-user 231 Mar  9 13:05 words-char.sh
+-rwxrw-r-- 1 ec2-user ec2-user 120 Mar  9 13:43 add-nummer.sh
+-rw-rw-r-- 1 ec2-user ec2-user  21 Mar  9 13:55 file1
+-rw-rw-r-- 1 ec2-user ec2-user  28 Mar  9 13:56 file2
+-rwxrw-r-- 1 ec2-user ec2-user 255 Mar  9 14:00 new-file.sh
+-rw-rw-r-- 1 ec2-user ec2-user  49 Mar  9 14:00 temp.txt
+-rwxrw-r-- 1 ec2-user ec2-user 237 Mar  9 14:32 factorial.sh
+-rwxrw-r-- 1 ec2-user ec2-user 101 Mar  9 16:09 greatest-n.sh
+-rw-rw-r-- 1 ec2-user ec2-user   0 Mar 10 08:47 text
